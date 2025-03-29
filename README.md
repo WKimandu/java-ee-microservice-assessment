@@ -119,3 +119,6 @@ src/
 - Implement proper logging
 - Document your code
 - Write meaningful commit messages 
+## Note on CI/CD
+
+This repository is configured with GitHub Actions for continuous integration. Your code will be automatically built and tested when you submit a pull request.
