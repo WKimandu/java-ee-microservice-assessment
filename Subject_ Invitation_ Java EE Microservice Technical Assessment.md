@@ -8,7 +8,7 @@ We are pleased to invite you to participate in our technical assessment process 
 
 *   **Repository:** `https://github.com/WKimandu/java-ee-microservice-assessment.git`
 *   **Exercise:** Java EE Microservice Assessment Task (Details will be in the repository's README.md)
-*   **Time Limit:** [Specify Time Limit, e.g., 5 hours, 3 days] (Please clarify the intended time limit)
+*   **Time Limit:** Candidates will have a 4-day window to complete the assessment, which is estimated to require approximately 5 hours of focused work.
 *   **Submission:** Via Pull Request to the `main` branch of the repository.
 
 **Instructions for the Assessment:**
@@ -37,4 +37,4 @@ We look forward to receiving your submission.
 Best regards,
 
 [Your Name/Hiring Team Name]
-Skills Verification Company
+CLOUDINFRA SOLUTIONS B.V.
