@@ -122,7 +122,6 @@ src/
 
 ## Note on CI/CD
 
-This repository is configured with GitHub Actions for continuous integration. Your code will be automatically built and tested when you submit a pull request.
-
+TThis repository is configured with GitHub Actions for continuous integration. All workflows use GitHub-hosted runners, providing a managed environment for building, testing, and deploying code.
 ## Test Note
 This is a test note to verify the GitHub Actions workflow with self-hosted runner. [Test run at 2025-03-31 07:45 UTC]
