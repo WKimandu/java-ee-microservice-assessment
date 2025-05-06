@@ -13,7 +13,7 @@ import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeType;
 
 @SpringBootApplication
-@EnableJpaAuditing
+// @EnableJpaAuditing // Moved to JpaAuditingConfig to enable conditionally
 @OpenAPIDefinition(
     info = @Info(
         title = "User Management API",
